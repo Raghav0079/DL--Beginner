@@ -176,7 +176,7 @@ This is a learning repository. Contributions are welcome! Feel free to:
 - [TensorFlow Documentation](https://www.tensorflow.org/learn)
 - [NumPy Documentation](https://numpy.org/doc/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Deep Learning Book](https://www.deeplearningbook.org/) by Ian Goodfellow
+
 
 ## 📧 Contact
 
@@ -193,3 +193,4 @@ This project is open source and available for educational purposes.
 ---
 
 *Happy Learning! 🎓*
+
